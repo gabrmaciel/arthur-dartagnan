@@ -135,6 +135,12 @@ body{
     
 }
 
+#Lateral{
+    width: 30%;
+    letter-spacing: 2px;
+    color: #FFF;
+}
+
 @media(max-width: 1240px){
 
 }
